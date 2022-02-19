@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AARG0
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning medicine
+- 💞️ I’m looking to collaborate on automation and Big data
+- 📫 How to reach me - abhinavargoyal@gmail.com
